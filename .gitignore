@@ -1,0 +1,11 @@
+.terraform
+
+*.hcl
+
+*.tfstate*
+
+*.pem
+
+*.tfvars
+
+creds.json

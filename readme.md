@@ -1,0 +1,1 @@
+# Terraform code which creates a GCP VM
